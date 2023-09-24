@@ -1,1 +1,1 @@
-# basic_ml
+# basic_machinelearning
